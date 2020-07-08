@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXmessage release="3.0">
+<header>
+<sender>
+<x298>Demo 2 Content Group</x298>
+<x299>CS</x299>
+<j272>demo@demo.com</j272>
+</sender>
+<addressee>
+<x300> Demo 2 CS</x300>
+</addressee>
+<x307>20171218T225035Z</x307>
+</header>
+<product>
+<a001>9785555555556</a001>
+<a002>03</a002>
+<productidentifier>
+<b221>15</b221>
+<b244>9785555555556</b244>
+</productidentifier>
+<productidentifier>
+<b221>02</b221>
+<b244>1922231089</b244>
+</productidentifier>
+<productidentifier>
+<b221>01</b221>
+<b233>Market mart FPI</b233>
+<b244>9785555555556</b244>
+</productidentifier>
+<productidentifier>
+<b221>01</b221>
+<b233>VBID</b233>
+<b244>9785555555556</b244>
+</productidentifier>
+<productidentifier>
+<b221>01</b221>
+<b233>Online SKU</b233>
+<b244>9785555555556</b244>
+</productidentifier>
+<descriptivedetail>
+<x314>00</x314>
+<b012>EA</b012>
+<b333>E101</b333>
+<b014>EPUB</b014>
+<x416>10</x416>
+<x317>01</x317>
+<epubusageconstraint>
+<x318>04</x318>
+<x319>03</x319>
+</epubusageconstraint>
+<epubusageconstraint>
+<x318>03</x318>
+<x319>03</x319>
+</epubusageconstraint>
+<epubusageconstraint>
+<x318>02</x318>
+<x319>03</x319>
+</epubusageconstraint>
+<x411/>
+<titledetail>
+<b202>01</b202>
+<titleelement>
+<x409>01</x409>
+<b203>Demo</b203>
+<b029>The Demo 2 Book</b029>
+</titleelement>
+</titledetail>
+<contributor>
+<b035>A01</b035>
+<b036>John Doe</b036>
+<b037>Doe, John</b037>
+<b039>John</b039>
+<b040>Doe</b040>
+<b044>John Doe is an Demo 2 author used for the assesment.</b044>
+</contributor>
+<n386/>
+<language>
+<b253>01</b253>
+<b252>eng</b252>
+</language>
+<extent>
+<b218>00</b218>
+<b219>288</b219>
+<b220>03</b220>
+</extent>
+<subject>
+<b067>10</b067>
+<b069>HIS004000</b069>
+</subject>
+<subject>
+<b067>10</b067>
+<b069>HUM000000</b069>
+</subject>
+<subject>
+<b067>12</b067>
+<b069>WH</b069>
+</subject>
+<subject>
+<b067>12</b067>
+<b069>HBJM</b069>
+</subject>
+</descriptivedetail>
+<collateraldetail>
+<textcontent>
+<x426>03</x426>
+<x427>00</x427>
+<d104 textformat="06"><![CDATA[<i>Winner, 2014 Demo 2 Award for Non-Fiction</i>
+<br><br>
+Demo. No word could better capture the essence of Demo...
+<br><br>
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+.]]></d104>
+</textcontent>
+</collateraldetail>
+<publishingdetail>
+<imprint>
+<b079>Demo 2 Inc.</b079>
+</imprint>
+<publisher>
+<b291>01</b291>
+<b081>Demo 2 Publishing Pty. Ltd</b081>
+</publisher>
+<b209>DemoHome</b209>
+<b394>04</b394>
+<publishingdate>
+<x448>01</x448>
+<b306 dateformat="00">20130724</b306>
+</publishingdate>
+<salesrights>
+<b089>01</b089>
+<territory>
+<x449>GB IE DE FR DK US CA ZW</x449>
+</territory>
+</salesrights>
+</publishingdetail>
+<relatedmaterial>
+<relatedwork>
+<x454>01</x454>
+<workidentifier>
+<b201>15</b201>
+<b244>9785555555556</b244>
+</workidentifier>
+</relatedwork>
+<relatedproduct>
+<x455>13</x455>
+<productidentifier>
+<b221>15</b221>
+<b244>9785555555556</b244>
+</productidentifier>
+<b012>BC</b012>
+</relatedproduct>
+</relatedmaterial>
+<productsupply>
+<supplydetail>
+<supplier>
+<j292>01</j292>
+<j137>DemoPublishing Pty. Ltd</j137>
+</supplier>
+<j396>20</j396>
+<supplydate>
+<x461>02</x461>
+<b306 dateformat="00">20130724</b306>
+</supplydate>
+<price>
+<x462>01</x462>
+<discountcoded>
+<j363>02</j363>
+<j378>CS</j378>
+<j364>01</j364>
+</discountcoded>
+<j151>13.52</j151>
+<j152>GBP</j152>
+</price>
+<price>
+<x462>01</x462>
+<discountcoded>
+<j363>02</j363>
+<j378>CS</j378>
+<j364>01</j364>
+</discountcoded>
+<j151>29.99</j151>
+<j152>USD</j152>
+</price>
+<price>
+<x462>01</x462>
+<discountcoded>
+<j363>02</j363>
+<j378>CS</j378>
+<j364>01</j364>
+</discountcoded>
+<j151>17.41</j151>
+<j152>EUR</j152>
+</price>
+</supplydetail>
+</productsupply>
+</product>
+</ONIXmessage>
